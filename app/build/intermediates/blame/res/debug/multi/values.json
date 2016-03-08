@@ -1,0 +1,100 @@
+[
+    {
+        "outputFile": "E:\\DE_CustomerApp\\MainActivity1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 37,
+                    "endOffset": 334
+                },
+                "from": {
+                    "file": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 339,
+                    "endColumn": 43,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 52,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 50,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\DE_CustomerApp\\MainActivity1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\DE_CustomerApp\\MainActivity1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_staggered_demo.xml",
+        "source": "E:\\DE_CustomerApp\\MainActivity1\\app\\src\\main\\res\\layout\\row_staggered_demo.xml"
+    }
+]
